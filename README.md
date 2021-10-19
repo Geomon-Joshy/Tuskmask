@@ -16,7 +16,7 @@ we steup vibration/wave sensing devices in a matrix either floating on the waves
                                                                                 - If the a particular sensor shows values-for examples if sensor in raw 0 and column 0 shows values, We would check the near by sensors (  raw 1 column 0 and column 1 raw 0), By analysing these 3 sensors we could understand if it is a circular wavw
 <br> -There will be many causes for circular waves in sea, such as Dolphins and other fissues:- <br>
                                                                                 - this can be neglected by further analysing the syncorny of the waves. Waves made by fishes won't come from the same epicenter for long. <br>
-- If a circular wave come from an epicenter continously we can predict that it is a sign for an upcoming tsunami. <br>
+- If an array of circular waves come from an epicenter continously for a long period of time we can predict that it is a sign for an upcoming tsunami. <br>
 
 Hence using this technique we are able to predict Tsunamies hours in advance.
  
